@@ -4,9 +4,18 @@ title: "Week 1"
 
 ## Speaker: Dr. Christine Wilkinson
 
-Here is christine's bio
+::: columns
+::: {.column width="35%"}
+![](/img/ChristineWilkinson.JPG)
+:::
 
-and a picture
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Speaker bio here
+:::
+:::
 
 ## Assigned reading
 
