@@ -3,16 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "queerecologieswebsite"
+  title: "Queer Ecologies"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - syllabus.qmd
+      - text: "Course"
+        menu: 
+          - course/week1.qmd
 format:
   html:
-    theme: cosmo
+    theme: 
+      - yeti
+      - custom.scss
     css: styles.css
     toc: true
 

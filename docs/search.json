@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "course/week1.html",
+    "href": "course/week1.html",
+    "title": "Week 1",
+    "section": "",
+    "text": "Here is christine’s bio\nand a picture"
+  },
+  {
+    "objectID": "course/week1.html#assigned-reading",
+    "href": "course/week1.html#assigned-reading",
+    "title": "Week 1",
+    "section": "Assigned reading",
+    "text": "Assigned reading\nhyena paper"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "queerecologieswebsite",
+    "title": "Queer Ecologies",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "BIOE 199F\n2 units"
   },
   {
     "objectID": "about.html",
@@ -12,5 +26,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "put the syllabus here all cutesy"
   }
 ]
