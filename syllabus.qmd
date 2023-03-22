@@ -4,4 +4,4 @@ title: "Syllabus"
 
 ## Syllabus
 
-put the syllabus here all cutesy
+![](img/syllabus.jpeg)

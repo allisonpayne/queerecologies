@@ -10,14 +10,15 @@ website:
         text: Home
       - about.qmd
       - syllabus.qmd
+      - resources.qmd
       - text: "Course"
         menu: 
           - course/week1.qmd
 format:
   html:
     theme: 
-      - yeti
       - custom.scss
+    mainfont: Quicksand
     css: styles.css
     toc: true
 
