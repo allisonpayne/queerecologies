@@ -2,4 +2,4 @@
 title: Resources
 ---
 
-\[Queer Science Reading List\](<https://alexzahara.wordpress.com/queer-science/>) from Alexa Zahara
+[Queer Science Reading List](https://alexzahara.wordpress.com/queer-science/){.uri} from Alexa Zahara
