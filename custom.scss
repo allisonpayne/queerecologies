@@ -19,3 +19,17 @@ $link-color: $orchid;
 
 //Fonts
 @import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+
+
+/*-- scss:rules --*/
+
+.custom-subtitle {
+  font-size: 22px;
+  font-style: italic;
+  color: $purple;
+}
+
+.bottombr {
+  margin-bottom: 3em;
+}
+
