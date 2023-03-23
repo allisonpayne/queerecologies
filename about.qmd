@@ -2,8 +2,17 @@
 title: "About"
 ---
 
-About this site
+[About the instructors]{.custom-subtitle}
 
-```{r}
-1 + 1
-```
+::: columns
+::: {.column width="35%"}
+![](/img/allisonheadshot.jpeg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Here is Allison's Bio
+:::
+:::
