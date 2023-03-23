@@ -1,5 +1,6 @@
 ---
 title: "Week 2"
+sidebar: false
 ---
 
 ## Speaker: Dr. Christine Wilkinson

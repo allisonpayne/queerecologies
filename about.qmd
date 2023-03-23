@@ -1,8 +1,9 @@
 ---
 title: "About"
+sidebar: false
 ---
 
-[About the instructors]{.custom-subtitle}
+[Allison Payne]{.custom-subtitle}
 
 ::: columns
 ::: {.column width="35%"}
@@ -14,5 +15,20 @@ title: "About"
 
 ::: {.column width="60%"}
 Here is Allison's Bio
+:::
+:::
+
+[Aspen Ellis]{.custom-subtitle}
+
+::: columns
+::: {.column width="35%"}
+Here is Aspen's headshot
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Here is Aspen's Bio
 :::
 :::

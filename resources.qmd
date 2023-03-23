@@ -1,5 +1,6 @@
 ---
 title: Resources
+sidebar: false
 ---
 
 [Queer Science Reading List](https://alexzahara.wordpress.com/queer-science/){.uri} from Alexa Zahara

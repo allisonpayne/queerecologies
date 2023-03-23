@@ -1,5 +1,6 @@
 ---
 title: "Queer Ecologies"
+sidebar: false
 ---
 
 [BIOE 199F - UC Santa Cruz - Spring 2023]{.custom-subtitle}

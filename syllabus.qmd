@@ -1,7 +1,6 @@
 ---
 title: "Syllabus"
+sidebar: false
 ---
-
-## Syllabus
 
 ![](img/syllabus.jpeg)
