@@ -6,7 +6,7 @@ title: "About"
 
 ::: columns
 ::: {.column width="35%"}
-![](/img/allisonheadshot.jpeg)
+![](/img/allisonheadshot.png)
 :::
 
 ::: {.column width="5%"}
