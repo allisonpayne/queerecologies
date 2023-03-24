@@ -1,0 +1,21 @@
+---
+title: "Week 3"
+sidebar: false
+---
+
+## Speaker: Dr. Ezra Kottler
+
+::: columns
+::: {.column width="35%"}
+Ezra's photo here
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Ezra's bio goes here
+:::
+:::
+
+## Assigned reading

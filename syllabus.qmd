@@ -3,4 +3,8 @@ title: "Syllabus"
 sidebar: false
 ---
 
-![](img/syllabus.jpeg)
+![](img/syllabus1.png)
+
+![](img/syllabus2.png)
+
+![](img/syllabus3.png)

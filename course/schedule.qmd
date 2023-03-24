@@ -1,0 +1,6 @@
+---
+title: "Course Schedule"
+sidebar: false
+---
+
+![](/img/schedule.png)

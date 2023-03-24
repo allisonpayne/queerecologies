@@ -13,8 +13,10 @@ website:
       - resources.qmd
       - text: "Course"
         menu: 
+          - course/schedule.qmd
           - course/week1.qmd
           - course/week2.qmd
+          - course/week3.qmd
 format:
   html:
     theme: 
