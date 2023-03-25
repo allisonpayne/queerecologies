@@ -8,3 +8,5 @@ sidebar: false
 ![](img/syllabus2.png)
 
 ![](img/syllabus3.png)
+
+![](img/syllabus4.png)
