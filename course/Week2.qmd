@@ -5,6 +5,8 @@ sidebar: false
 
 ## Speaker: Dr. Christine Wilkinson
 
+[Harnessing intersectionality to understand human-wildlife interactions]{.custom-subtitle}
+
 ::: columns
 ::: {.column width="35%"}
 ![](/img/ChristineWilkinson.JPG)
