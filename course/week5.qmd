@@ -1,0 +1,22 @@
+---
+title: "Week 5"
+sidebar: false
+---
+
+## Speaker: Dr. Justin Luong
+
+::: columns
+
+::: {.column width="35%"}
+Justin's photo here
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Justin's bio goes here
+:::
+:::
+
+## Assigned reading

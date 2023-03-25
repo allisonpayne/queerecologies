@@ -1,0 +1,21 @@
+---
+title: "Week 8"
+sidebar: false
+---
+
+## Speaker: Dr. Ash Zemenick
+
+::: columns
+::: {.column width="35%"}
+Ash's photo here
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Ash's bio goes here
+:::
+:::
+
+## Assigned reading
