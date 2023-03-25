@@ -1,0 +1,21 @@
+---
+title: "Week 7"
+sidebar: false
+---
+
+## Speaker: Dr. Jessica Kendall-Bar
+
+::: columns
+::: {.column width="35%"}
+Jessie's photo here
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Jessie's bio goes here
+:::
+:::
+
+## Assigned reading
