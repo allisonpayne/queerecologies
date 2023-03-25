@@ -1,0 +1,21 @@
+---
+title: "Week 4"
+sidebar: false
+---
+
+## Speaker: Dr. Lauren Esposito
+
+::: columns
+::: {.column width="35%"}
+Lauren's photo here
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Lauren's bio goes here
+:::
+:::
+
+## Assigned reading
