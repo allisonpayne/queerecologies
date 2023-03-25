@@ -1,5 +1,19 @@
 [
   {
+    "objectID": "course/week8.html",
+    "href": "course/week8.html",
+    "title": "Week 8",
+    "section": "",
+    "text": "Ash’s photo here\n\n\n\nAsh’s bio goes here"
+  },
+  {
+    "objectID": "course/week8.html#assigned-reading",
+    "href": "course/week8.html#assigned-reading",
+    "title": "Week 8",
+    "section": "Assigned reading",
+    "text": "Assigned reading"
+  },
+  {
     "objectID": "course/week1.html#assigned-reading",
     "href": "course/week1.html#assigned-reading",
     "title": "Week 1",
@@ -35,6 +49,34 @@
     "text": "Assigned reading"
   },
   {
+    "objectID": "course/week7.html",
+    "href": "course/week7.html",
+    "title": "Week 7",
+    "section": "",
+    "text": "Jessie’s photo here\n\n\n\nJessie’s bio goes here"
+  },
+  {
+    "objectID": "course/week7.html#assigned-reading",
+    "href": "course/week7.html#assigned-reading",
+    "title": "Week 7",
+    "section": "Assigned reading",
+    "text": "Assigned reading"
+  },
+  {
+    "objectID": "course/week6.html",
+    "href": "course/week6.html",
+    "title": "Week 6",
+    "section": "",
+    "text": "Jess’s photo here\n\n\n\nJess’s bio goes here"
+  },
+  {
+    "objectID": "course/week6.html#assigned-reading",
+    "href": "course/week6.html#assigned-reading",
+    "title": "Week 6",
+    "section": "Assigned reading",
+    "text": "Assigned reading"
+  },
+  {
     "objectID": "course/week4.html",
     "href": "course/week4.html",
     "title": "Week 4",
@@ -45,6 +87,20 @@
     "objectID": "course/week4.html#assigned-reading",
     "href": "course/week4.html#assigned-reading",
     "title": "Week 4",
+    "section": "Assigned reading",
+    "text": "Assigned reading"
+  },
+  {
+    "objectID": "course/week5.html",
+    "href": "course/week5.html",
+    "title": "Week 5",
+    "section": "",
+    "text": "Justin’s photo here\n\n\n\nJustin’s bio goes here"
+  },
+  {
+    "objectID": "course/week5.html#assigned-reading",
+    "href": "course/week5.html#assigned-reading",
+    "title": "Week 5",
     "section": "Assigned reading",
     "text": "Assigned reading"
   },

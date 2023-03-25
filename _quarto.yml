@@ -18,6 +18,14 @@ website:
           - course/week2.qmd
           - course/week3.qmd
           - course/week4.qmd
+          - course/week5.qmd
+          - course/week6.qmd
+          - course/week7.qmd
+          - course/week8.qmd
+          - course/week9.qmd
+          - course/week10.qmd
+
+
 format:
   html:
     theme: 
