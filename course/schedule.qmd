@@ -1,5 +1,5 @@
 ---
-title: "Course Schedule"
+title: " "
 sidebar: false
 ---
 
