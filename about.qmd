@@ -24,13 +24,13 @@ You can check out her personal website at [www.whalegirl.org](www.whalegirl.org)
 
 ::: columns
 ::: {.column width="35%"}
-Here is Aspen's headshot
+Aspen's headshot
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="60%"}
-Here is Aspen's Bio
+Aspen's Bio
 :::
 :::

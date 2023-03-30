@@ -7,15 +7,17 @@ sidebar: false
 
 ::: columns
 ::: {.column width="35%"}
-Lauren's photo here
+![](/img/LaurenEsposito.jpeg)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="60%"}
-Lauren's bio goes here
+Dr. Lauren Esposito is the Curator and Schlinger Chair of Arachnology at the California Academy of Sciences. Lauren\'s current research investigates the patterns and processes of evolution in spiders, scorpions, with a focus on tropical islands. Originally from the US-Mexico borderlands, she completed her undergraduate degree at the University of Texas at El Paso, and went on to obtain an MS and PhD from the American Museum of Natural History in collaboration with the City University of New York. Lauren is the co-founder/director of a science, education, and conservation non-profit called Islands & Seas, and the founder of 500 Queer Scientists, a visibility campaign for LGBTQ+ people working in STEM careers.
 :::
 :::
 
 ## Assigned reading
+
+"Measuring What We Don't Know: Biodiversity Catalogs Reveal Bias in Taxonomic Effort": <https://academic.oup.com/bioscience/article-abstract/73/2/112/7067488>

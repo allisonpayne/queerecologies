@@ -17,7 +17,7 @@ website:
           - course/week1.qmd
           - course/week2.qmd
           - course/week3.qmd
-          # - course/week4.qmd
+          - course/week4.qmd
           # - course/week5.qmd
           # - course/week6.qmd
           # - course/week7.qmd
