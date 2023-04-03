@@ -24,13 +24,13 @@ You can check out her personal website at [www.whalegirl.org](www.whalegirl.org)
 
 ::: columns
 ::: {.column width="35%"}
-Aspen's headshot
+![](images/Ellis_UCSC_headshot_small.jpeg){width="941"}
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="60%"}
-Aspen's Bio
+Aspen is a PhD student in the Conservation Action Lab at the University of California, Santa Cruz, where her research focuses on approaches to understand and respond to offshore wind energy impacts to seabirds. She's interested in projects that help direct actionable conservation for marine wildlife, and approaches to improve the conservation field more broadly, especially around fair pay and support for graduate students. Outside of her research, she loves to make pottery, elaborate salads, and statement birthday cakes. 
 :::
 :::
