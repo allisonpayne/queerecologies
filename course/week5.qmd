@@ -6,16 +6,14 @@ sidebar: false
 ## Speaker: Dr. Justin Luong
 
 ::: columns
-
 ::: {.column width="35%"}
-Justin's photo here
+Stay tuned for more information soon!
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="60%"}
-Justin's bio goes here
 :::
 :::
 

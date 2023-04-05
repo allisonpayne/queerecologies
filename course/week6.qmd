@@ -5,18 +5,21 @@ sidebar: false
 
 ## Speaker: Dr. Jess McLaughlin
 
-::: columns
+[Blurry species boundaries and binary breaking: exploring grey areas in biology]{.custom-subtitle}
 
+::: columns
 ::: {.column width="35%"}
-Jess's photo here
+![](/img/JessMcLaughlin.jpeg)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="60%"}
-Jess's bio goes here
+Jess McLaughlin is a postdoc at UC Berkeley studying comparative genomics of anoles in the Caribbean. They received their BSc in Wildlife Biology and MSc in Biological Sciences at University of Alaska Fairbanks, and their PhD in Biology at University of Oklahoma. Their work focuses on using genomics to understand what drives diversification and speciation. As a nonbinary biologist, Jess also works on developing teaching guides to better convey the complexity of the biology of sex in the classroom, and is an advocate for LGBTQ+ inclusion in EEB. When they aren't doing science or shouting about trans rights on the internet, they can be found beachcombing, playing Dungeons and Dragons, and hanging out with their two dogs and cornsnake.
 :::
 :::
 
 ## Assigned reading
+
+"Multimodal models of animal sex: breaking binaries leads to a better understanding of ecology and evolution": <https://www.biorxiv.org/content/10.1101/2023.01.26.525769v1>

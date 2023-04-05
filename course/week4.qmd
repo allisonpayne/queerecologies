@@ -5,6 +5,8 @@ sidebar: false
 
 ## Speaker: Dr. Lauren Esposito
 
+[Queering STEM-- The Importance of Visibility]{.custom-subtitle}
+
 ::: columns
 ::: {.column width="35%"}
 ![](/img/LaurenEsposito.jpeg)
