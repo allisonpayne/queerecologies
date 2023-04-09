@@ -3,7 +3,7 @@ title: "Week 9"
 sidebar: false
 ---
 
-## No Class! 
+## No Class!
 
 ::: columns
 ::: {.column width="35%"}
