@@ -3,4 +3,4 @@ title: "Schedule"
 sidebar: false
 ---
 
-![](/img/schedule.jpeg)
+![](/img/schedule.png)
