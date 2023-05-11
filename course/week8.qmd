@@ -3,17 +3,18 @@ title: "Week 8"
 sidebar: false
 ---
 
-## Speaker: Dr. Ash Zemenick
+## Speaker: Dr. Max Czapanskiy
 
 ::: columns
 ::: {.column width="35%"}
-More information soon!
+![](/img/max_headshot.jpeg)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="60%"}
+Max is a postdoctoral scholar with NOAA\'s Southwest Fisheries Science Center and UC Santa Cruz\'s Ocean Sciences Department working at the intersection of ecology and software engineering. He develops educational resources and computational tools that promote open science.
 :::
 :::
 
