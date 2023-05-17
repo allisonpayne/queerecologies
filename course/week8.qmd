@@ -5,6 +5,8 @@ sidebar: false
 
 ## Speaker: Dr. Max Czapanskiy
 
+\[Data, Power, and the Academy\]{.custom-subtitle}
+
 ::: columns
 ::: {.column width="35%"}
 ![](/img/max_headshot.jpeg)
