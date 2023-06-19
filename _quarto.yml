@@ -24,6 +24,7 @@ website:
           - course/week8.qmd
           - course/week9.qmd
           - course/week10.qmd
+          #- course/response.qmd
 
 
 format:
