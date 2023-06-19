@@ -3,6 +3,8 @@ title: Resources
 sidebar: false
 ---
 
+[Page still in progress - stay tuned!]{.custom-subtitle}
+
 [Queer Science Reading List](https://alexzahara.wordpress.com/queer-science/){.uri} from Alexa Zahara
 
 [Gender Inclusive Biology](genderinclusivebiology.com)
