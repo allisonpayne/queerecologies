@@ -1,0 +1,165 @@
+---
+title: "Assessment"
+format:
+  html:
+    code-fold: true
+    code-summary: "Show the code"
+---
+
+#### Results of the end-of-quarter survey, based on the [PITS (Persistence in the Sciences) survey.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5132351/)
+
+```{r, include = FALSE}
+#Data wrangling
+
+library(tidyverse)
+library(likert)
+
+survey_raw <- read_csv(here::here("course/response/survey.csv")) %>%
+  mutate(resp_id = row_number())
+
+survey_long <- survey_raw %>% 
+  pivot_longer(cols = -c(resp_id, U_G),
+               names_to = "question", 
+               values_to = "response")
+
+quest <- read_csv(here::here("course/response/questions.csv"))
+
+survey_full <- full_join(survey_long, quest)
+
+
+# survey_likert <- survey_long %>% 
+#   filter(!str_detect(question, "SCV*"))
+# 
+# likert_summary <- survey_likert %>% 
+#   drop_na(response) %>% 
+#   group_by(question, response) %>% 
+#   summarize(count = n(), .groups = "drop") %>% 
+#   complete(question, response, fill = list(count = 0)) %>% 
+#   group_by(question) %>% 
+#   mutate(prop = count / sum(count)) %>% 
+#   ungroup() %>% 
+#   mutate(response = factor(response, 
+#                            levels = c("Strongly disagree", 
+#                                       "Disagree", 
+#                                       "Neither agree nor disagree", 
+#                                       "Agree", 
+#                                       "Strongly agree")))
+# 
+# likert_wide <- likert_summary %>% 
+#   select(-count) %>% 
+#   pivot_wider(names_from = response, values_from = prop)
+
+```
+
+### Science Identity
+
+```{r, message=FALSE}
+
+likert_levels <- c("Strongly disagree", 
+                   "Disagree", 
+                   "Neither agree nor disagree", 
+                   "Agree", 
+                   "Strongly agree")
+
+survey_SI <- survey_raw %>% 
+  drop_na(U_G) %>% 
+  dplyr::select(starts_with("SI")) %>% 
+  mutate(across(everything(), ~ factor(.x, levels = likert_levels))) %>% 
+  rename("I have a strong sense of belonging to the community of scientists." = SI_1, 
+         "I derive great personal satisfaction from working on a team that is doing important research." = SI_2, 
+         "I have come to think of myself as a 'scientist'." = SI_3, 
+         "I feel like I belong in the field of science." = SI_4, 
+         "The daily work of a scientist is appealing to me." = SI_5) %>% 
+  as.data.frame()
+
+likert_SI <- likert(survey_SI, grouping = na.omit(survey_raw$U_G))
+
+plot(likert_SI,
+     group.order = c("Undergraduate", "Graduate"), 
+     centered = TRUE, 
+     panel.strip.color = "#dbd2ea") + 
+  scale_fill_manual(values = c("#f29da6", 
+                               "#fab084", 
+                               "#fbe095",  
+                               "#c9e6c9",  
+                               "#a0c695"), 
+                    breaks = likert_levels) + 
+  theme(panel.background = element_rect(fill = "white"), 
+        plot.background = element_rect(fill = "#fff9ed"), 
+        legend.title = element_blank(), 
+        legend.background = element_rect(fill = "#fff9ed"))
+```
+
+### Science Community Values
+
+```{r, message=FALSE}
+
+scv_levels <- c("Not at all like me", 
+                "Not like me", 
+                "A little like me", 
+                "Somewhat like me", 
+                "Like me",
+                "Very much like me")
+
+survey_scv <- survey_raw %>% 
+  drop_na(U_G) %>% 
+  dplyr::select(starts_with("SCV")) %>% 
+  mutate(across(everything(), ~ factor(.x, levels = scv_levels))) %>% 
+  rename("A person who thinks discussing new theories and ideas between scientists is important." = SCV_1, 
+         "A person who thinks it is valuable to conduct research that builds the world's scientific knowledge." = SCV_2, 
+         "A person who thinks that scientific research can solve many of today's world challenges." = SCV_3, 
+         "A person who feels discovering something new in the sciences is thrilling." = SCV_4) %>% 
+  as.data.frame()
+
+likert_scv <- likert(survey_scv, grouping = na.omit(survey_raw$U_G))
+
+plot(likert_scv,
+     group.order = c("Undergraduate", "Graduate"), 
+     centered = TRUE, 
+     panel.strip.color = "#dbd2ea") + 
+  scale_fill_manual(values = c("#f29da6", 
+                               "#fab084", 
+                               "#fbe095",  
+                               "#c9e6c9",  
+                               "#9bd1c9", 
+                               "#a0c695"), 
+                    breaks = scv_levels) + 
+  theme(panel.background = element_rect(fill = "white"), 
+        plot.background = element_rect(fill = "#fff9ed"), 
+        legend.title = element_blank(), 
+        legend.background = element_rect(fill = "#fff9ed"))
+```
+
+### Networking
+
+```{r message=FALSE}
+survey_n <- survey_raw %>% 
+  drop_na(U_G) %>% 
+  dplyr::select(starts_with("N")) %>% 
+  mutate(across(everything(), ~ factor(.x, levels = likert_levels))) %>% 
+  rename("I have discussed this course with my parents or guardian" = N_1, 
+         "I have discussed this course with my friends" = N_2, 
+         "I have discussed this course with students who are not in my class but in my institution" = N_3, 
+         "I have discussed this course with students who are not at my institution" = N_4, 
+         "I have discussed this course with professors other than my course instructor" = N_5) %>% 
+  as.data.frame()
+
+likert_n <- likert(survey_n, grouping = na.omit(survey_raw$U_G))
+
+plot(likert_n,
+     group.order = c("Undergraduate", "Graduate"), 
+     centered = TRUE, 
+     panel.strip.color = "#dbd2ea") + 
+  scale_fill_manual(values = c("#f29da6", 
+                               "#fab084", 
+                               "#fbe095",  
+                               "#c9e6c9",  
+                               "#a0c695"), 
+                    breaks = likert_levels) + 
+  theme(panel.background = element_rect(fill = "white"), 
+        plot.background = element_rect(fill = "#fff9ed"), 
+        legend.title = element_blank(), 
+        legend.background = element_rect(fill = "#fff9ed"))
+```
+
+## 
