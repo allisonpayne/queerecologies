@@ -11,7 +11,6 @@ website:
       - about.qmd
       - syllabus.qmd
       - resources.qmd
-      - assessment.qmd
       - text: "Course"
         menu: 
           - course/schedule.qmd
@@ -25,6 +24,21 @@ website:
           - course/week8.qmd
           - course/week9.qmd
           - course/week10.qmd
+      - text: "2023 offering"
+        menu:
+          - 2023/schedule.qmd
+          - 2023/week1.qmd
+          - 2023/week2.qmd
+          - 2023/week3.qmd
+          - 2023/week4.qmd
+          - 2023/week5.qmd
+          - 2023/week6.qmd
+          - 2023/week7.qmd
+          - 2023/week8.qmd
+          - 2023/week9.qmd
+          - 2023/week10.qmd
+          - assessment.qmd
+
 
 
 format:

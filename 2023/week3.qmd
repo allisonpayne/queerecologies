@@ -1,0 +1,29 @@
+---
+title: "Week 3"
+sidebar: false
+---
+
+## Speaker: Dr. Ezra Kottler
+
+[Seeds of change: plant resilience, restoration, and trans field futures]{.custom-subtitle}
+
+::: columns
+::: {.column width="35%"}
+![](/img/EzraKottler.jpeg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Dr. Kottler is a conservation scientist, botany enthusiast, educator, and LGBTQ+ rights advocate. Their research focuses on the ecology and evolution of wetland plants that are responding to rapid environmental shifts associated with climate change. They received their Bachelors in Biology from Vassar College in 2016, and then worked for the Conservation Land Management collecting native seeds for Post-Hurricane Sandy restoration projects in the mid-Atlantic. Following this, they earned their PhD at George Washington University for their dissertation entitled "Genotype by environment interactions of a high marsh foundation species affected by sea-level rise". Dr. Kottler is now a Smith Conservation Fellow, and is conducting postdoctoral research at the University of Colorado Boulder on the restoration genomics of endangered vernal pool plants in California. In 2022, Dr. Kottler founded the Trans and Gender-nonconforming Fieldwork Alliance (TGFA) to build community and provide resources for fellow trans and gender-nonconforming field scientists, allies and institutions.
+
+Check out their website [here](https://ezrakottler.wixsite.com/plantsci){.uri}.
+:::
+:::
+
+## Assigned reading
+
+"Allyship Requires Action": Editorial out in May 2023
+
+*Optional reading:* "Seeds of change: characterizing the soil seed bank of a migrating salt marsh": <https://academic.oup.com/aob/article/125/2/335/5549605>

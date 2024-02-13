@@ -5,7 +5,7 @@ sidebar: false
 
 ![](img/queerecobanner.jpeg)
 
-[BIOE 199F - UC Santa Cruz - Spring 2023]{.custom-subtitle}
+[BIOE 189F - UC Santa Cruz]{.custom-subtitle}
 
 For hundreds of years, scientific discovery has been driven by heteronormative Western perspectives on what is "natural." Scientific disciplines that ignore queer voices lose the insights of talented scientists and miss the opportunity to discover a world that is not only more inclusive, but also more scientifically robust.
 
@@ -13,10 +13,8 @@ Through this seminar series, students will hear presentations from queer speaker
 
 UC Santa Cruz ranks among the most LGBTQ+ friendly universities in the country and has extremely diverse undergraduate and graduate populations. We believe that there is substantial demand for interdisciplinary courses that bridge the gap between identity and scientific discovery. The proposed class will encourage thoughtful engagement with the scientific process and give students with marginalized identities a place to connect with their queer scientific community.
 
-[Mondays]{.custom-subtitle}
+[Thursdays]{.custom-subtitle}
 
-[3:30-5pm for undergraduate students]{.custom-subtitle}
-
-[4-6pm for graduate students]{.custom-subtitle}
+[4:30-6pm]{.custom-subtitle}
 
 [CBB 110, UCSC Coastal Campus]{.custom-subtitle}

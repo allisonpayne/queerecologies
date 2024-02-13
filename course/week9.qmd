@@ -3,9 +3,14 @@ title: "Week 9"
 sidebar: false
 ---
 
-## No Class!
+## Speaker: Dr. Em Whalen
 
 ::: columns
-::: {.column width="35%"}
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
 :::
 :::
+
+## Assigned reading
