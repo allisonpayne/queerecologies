@@ -26,7 +26,6 @@ website:
           - course/week10.qmd
       - text: "2023 offering"
         menu:
-          - 2023/schedule.qmd
           - 2023/week1.qmd
           - 2023/week2.qmd
           - 2023/week3.qmd
