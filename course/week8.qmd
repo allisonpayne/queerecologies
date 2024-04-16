@@ -3,27 +3,25 @@ title: "Week 8"
 sidebar: false
 ---
 
-## Speaker: Dr. Jessica Kendall-Bar
+## Speaker: Dr. Max Czapanskiy
 
-[Art and Science: bridging disciplines to foster innovation and inclusivity]{.custom-subtitle}
+[Data, Power, and the Academy]{.custom-subtitle}
 
 ::: columns
 ::: {.column width="35%"}
-![](/img/JKB.png)
+![](/img/max_headshot.jpeg)
 :::
 
 ::: {.column width="5%"}
 :::
 
 ::: {.column width="60%"}
-Dr. Jessica Kendall-Bar is a Scripps Postdoctoral Scholar at the Center for Marine Biotechnology & Biomedicine at Scripps Institution of Oceanography, UC San Diego. Jessie's postdoctoral work builds on her doctoral research at UC Santa Cruz, where she developed innovative tools to non-invasively measure and visualize the sleep patterns of wild seals. At Scripps, Jessie seeks to compare the extreme physiology of elite divers- including humans, penguins, seals, and whales. A scientist by training, Jessie's research has spanned from computer graphics to human sleep deprivation and arthropod mating behavior. However, Jessie believes that scientific progress is futile unless communicated effectively. Her animations, illustrated children's books, and data visualizations aim to accurately portray science and its role in preserving underwater ecosystems. Her work as a science communication specialist distills scientific complexity into data-driven stories, graphics, and animations that accelerate research, outreach, and conservation.
+Dr Max Czapanskiy is a postdoctoral scholar with UCSC's Ocean Science department and the NOAA Southwest Fisheries Science Center. His research and teaching promote open science as an essential step in transforming scientific culture. A former software developer, his past research applied his computational background to questions in movement ecology and ecophysiology, including flight dynamics of seabirds and cardiovascular function of baleen whales. During that time, he observed the connections between access to data (or, conversely, data hoarding), power dynamics within scientific culture, and toxic workplace environments. He believes the open science movement has the potential to dismantle barriers to participation and disempower abusive scientists. But unless radical reform is an explicit goal, the movement will inevitably recapitulate the existing power structures behind a new facade. Today, he is focused on building the technical and social capacity of early career researchers to self-determine their careers and roles in science. 
 :::
 :::
 
 ## Assigned reading
 
-"Brain activity of diving seals reveals short sleep cycles at depth": <https://www.science.org/doi/full/10.1126/science.adf0566>
+"How Reproducibility Will Accelerate Discovery Through Collaboration in Physio-Logging": <https://www.frontiersin.org/articles/10.3389/fphys.2022.917976/full?utm_source=dlvr.it&utm_medium=twitter>
 
-"Elephant seals take power naps during deep ocean dives": <https://www.nytimes.com/2023/04/20/science/elephant-seals-sleep-dive.html>
-
-"I'm a transgender scientist, and I see myself in Frankenstein": <https://electricliterature.com/im-a-transgender-scientist-and-i-see-myself-in-frankenstein/>
+Anatomy of a Toxic Lab: <https://michaelbalter.substack.com/p/anatomy-of-a-toxic-lab-global-biodiversity>
