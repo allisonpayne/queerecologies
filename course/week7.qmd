@@ -5,14 +5,22 @@ sidebar: false
 
 ## Speaker: Dr. Nikola Alexandre
 
-Coming soon!
+[Community land stewardship for Earthly Survival: a case study of Shelterwood Collective]{.custom-subtitle}
 
 ::: columns
 ::: {.column width="5%"}
+![](images/nikola.jpeg){fig-align="center"}
 :::
 
 ::: {.column width="60%"}
+Nikola (they/he) is a Black queer forester by training and by calling. Nikola was raised by the deserts of New Mexico and the alpine mountains of Southern France. After attending a nature-based healing gathering following the Pulse massacre, Nikola committed his life to healing through tending the earth and reclaiming land stewardship as a way of nurturing a future for the communities he belongs to. Nikola holds a Master’s of Forestry and Master’s of Business Administration from Yale University, and founded Conservation International’s Ecosystem Restoration Program.
 :::
 :::
 
 ## Assigned reading
+
+Shelterwood Collective early learnings report:
+https://static1.squarespace.com/static/63570fe4d27e7c2ccf398635/t/6488636f0feb0a765506e78e/1686659961438/Shelterwood+Collective_Early+Learnings_June+2023.pdf
+
+Rightful relationships reading list:
+https://www.shelterwoodcollective.org/resources/right-relations-reading-list
