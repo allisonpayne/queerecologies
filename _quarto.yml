@@ -10,21 +10,34 @@ website:
         text: Home
       - about.qmd
       - syllabus.qmd
-      - resources.qmd
-      - text: "Course"
+#      - resources.qmd
+      - text: "2025"
+        menu:
+          - 2025/week1.qmd
+          - 2025/week2.qmd
+          - 2025/week3.qmd
+          - 2025/week4.qmd
+          - 2025/week5.qmd
+          - 2025/week6.qmd
+          - 2025/week7.qmd
+          - 2025/week8.qmd
+          - 2025/week9.qmd
+          - 2025/week10.qmd
+          - assessment.qmd
+      - text: "2024"
         menu: 
-          - course/schedule.qmd
-          - course/week1.qmd
-          - course/week2.qmd
-          - course/week3.qmd
-          - course/week4.qmd
-          - course/week5.qmd
-          - course/week6.qmd
-          - course/week7.qmd
-          - course/week8.qmd
-          - course/week9.qmd
-          - course/week10.qmd
-      - text: "2023 offering"
+          - 2024/schedule.qmd
+          - 2024/week1.qmd
+          - 2024/week2.qmd
+          - 2024/week3.qmd
+          - 2024/week4.qmd
+          - 2024/week5.qmd
+          - 2024/week6.qmd
+          - 2024/week7.qmd
+          - 2024/week8.qmd
+          - 2024/week9.qmd
+          - 2024/week10.qmd
+      - text: "2023"
         menu:
           - 2023/week1.qmd
           - 2023/week2.qmd

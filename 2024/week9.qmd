@@ -1,0 +1,25 @@
+---
+title: "Week 9"
+sidebar: false
+---
+
+## Speaker: Dr. Em Whalen
+
+[Towards a critical queer ecology: Queering critical inquiry to uncover novel patterns of global change]{.custom-subtitle}
+
+::: columns
+::: {.column width="35%"}
+![](images/emwhalen.jpeg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Em Whalen (they/she) is a soil biogeochemist, microbial ecologist, and educator, with expertise in soil organic matter formation and carbon storage, and the role of microorganisms in promoting these processes. They received a B.S. in Environmental Science from the University of Vermont, and completed their M.S. and Ph.D. in Earth & Environmental Sciences at the University of New Hampshire. Em is currently working in Oakland, CA as a postdoctoral research scientist at the Critical Ecology Lab, an independent research organization investigating the connections between social power, inequality and global environmental change. Her current research focuses on the ecological legacy effects of colonial plantation slavery, with an emphasis on soil fertility and carbon cycling. Em is passionate about critical (and queer) approaches to environmental science education, pedagogy and research, approaching all of their work with the understanding that addressing current environmental and climate crises is inseparable from the work of dismantling (settler) colonialism, white supremacy and cisheteropatriarchy.
+:::
+:::
+
+## Assigned reading
+
+TBD!

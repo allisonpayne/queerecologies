@@ -1,0 +1,15 @@
+question,text,category
+SI_1,I have a strong sense of belonging to the community of scientists.,Science Identity
+SI_2,I derive great personal satisfaction from working on a team that is doing important research. ,Science Identity
+SI_3,I have come to think of myself as a 'scientist'.,Science Identity
+SI_4,I feel like I belong in the field of science.,Science Identity
+SI_5,The daily work of a scientist is appealing to me.,Science Identity
+SCV_1,A person who thinks discussing new theories and ideas between scientists is important.,Science Community Values
+SCV_2,A person who thinks it is valuable to conduct research that builds the world's scientific knowledge,Science Community Values
+SCV_3,A person who thinks that scientific research can solve many of today's world challenges,Science Community Values
+SCV_4,A person who feels discovering something new in the sciences is thrilling,Science Community Values
+N_1,I have discussed this course with my parents or guardian,Networking
+N_2,I have discussed this course with my friends,Networking
+N_3,I have discussed this course with students who are not in my class but in my institution,Networking
+N_4,I have discussed this course with students who are not at my institution,Networking
+N_5,I have discussed this course with professors other than my course instructor,Networking

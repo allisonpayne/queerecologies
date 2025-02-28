@@ -1,0 +1,33 @@
+---
+title: "Week 4"
+sidebar: false
+---
+
+## Speaker: Aaron Tupac
+
+[Myceliating Community: How to Love a Mushroom]{.custom-subtitle}
+
+::: columns
+::: {.column width="35%"}
+![](/img/aaron.jpeg)
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+Aaron Tupac (they/them) is a mycologist, educator, community organizer, and speaker based in Los Angeles.
+
+Aaron works for the Fungal Diversity Survey, the only nonprofit focused on North America's fungal biodiversity and conservation. They serve as a field mycologist for the California Fungal Diversity Survey Project, the first government-funded state-wide project of its kind. Their work is part of an initiative to document, DNA-sequence, and make voucher collections for fungariums of the fungi that inhabit California. In their first year in 2023, 20% of collections made were new species sequences.
+
+They are also the founder and serve as the chair of the North American Mycological Association’s Conservation and Stewardship Committee, working on mycological conservation at the international scale. Aaron is passionate about fungi conservation advocacy, ecological restoration, and making fungi education accessible for all ages and demographics. As a lover of the more-than-human world, they are fascinated with fungi and their essential role in teaching us about relationships and the interconnection of the living world.
+
+Through learning with fungi, Aaron realized their own identity as non-binary and queer. Aaron found their queer community through the group they created, the fungi-focused community education group Exploring the Mycoverse at Arlington Garden. The Mycoverse was born when community was not easy to find. It was during the onset of the COVID-19 pandemic. Since founding Exploring the Mycoverse in 2021, they have hosted over 100 fungi-related events reaching over 1,000 people. Through their mycelial ways, fungi have taught Aaron what community is. They have since dedicated their life to working for the fungi.
+:::
+:::
+
+## Assigned reading
+
+For the Wild: Dr. Patricia Kaishian on Queer Mycology: <https://forthewild.world/listen/dr-patricia-kaishian-on-queer-mycology-262>
+
+Transcript: <https://forthewild.world/podcast-transcripts/dr-patricia-kaishian-on-queer-mycology-262>

@@ -1,0 +1,16 @@
+---
+title: "Week 1"
+sidebar: false
+---
+
+## Community Building and Expectations
+
+[Our class Queer Science Manifesto:]{.custom-subtitle}
+
+Coming soon!
+
+[Our community agreements:]{.custom-subtitle}
+
+## Assigned reading (in-class)
+
+[The Queer Science Manifesto](https://web.archive.org/web/20190307120740/http://notjustforscientists.org/idea/make-your-personal-queer-science-manifesto/)

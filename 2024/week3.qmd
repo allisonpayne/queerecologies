@@ -1,0 +1,18 @@
+---
+title: "Week 3"
+sidebar: false
+---
+
+## Week 3: Objectivity and the Bias of Science
+
+Coming soon!
+
+::: columns
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+:::
+:::
+
+## Assigned reading

@@ -1,6 +1,0 @@
----
-title: "Schedule"
-sidebar: false
----
-
-![](/img/schedule.png)

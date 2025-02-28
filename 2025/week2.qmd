@@ -1,0 +1,18 @@
+---
+title: "Week 2"
+sidebar: false
+---
+
+## Speaker: Coming soon!
+
+Coming soon!
+
+::: columns
+::: {.column width="5%"}
+:::
+
+::: {.column width="60%"}
+:::
+:::
+
+## Assigned reading

@@ -24,7 +24,7 @@ You can check out her personal website at [allisonpayne.github.io](https://allis
 
 ::: columns
 ::: {.column width="35%"}
-![](images/Ellis_UCSC_headshot_small.jpeg){width="941"}
+![](docs/images/Ellis_UCSC_headshot_small.jpeg)
 :::
 
 ::: {.column width="5%"}
