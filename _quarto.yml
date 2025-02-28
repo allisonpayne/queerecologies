@@ -23,7 +23,6 @@ website:
           - 2025/week8.qmd
           - 2025/week9.qmd
           - 2025/week10.qmd
-          - assessment.qmd
       - text: "2024"
         menu: 
           - 2024/schedule.qmd

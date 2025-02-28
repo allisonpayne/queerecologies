@@ -14,7 +14,7 @@ format:
 library(tidyverse)
 library(likert)
 
-survey_raw <- read_csv(here::here("course/response/survey.csv")) %>%
+survey_raw <- read_csv(here::here("2023/response/survey.csv")) %>%
   mutate(resp_id = row_number())
 
 survey_long <- survey_raw %>% 
@@ -22,7 +22,7 @@ survey_long <- survey_raw %>%
                names_to = "question", 
                values_to = "response")
 
-quest <- read_csv(here::here("course/response/questions.csv"))
+quest <- read_csv(here::here("2023/response/questions.csv"))
 
 survey_full <- full_join(survey_long, quest)
 
